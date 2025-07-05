@@ -1,0 +1,6 @@
+/* globals.css */
+body {
+  background: linear-gradient(135deg, #ffffff 60%, #80000020 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
