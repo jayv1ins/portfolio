@@ -108,7 +108,7 @@ export default function AboutPage() {
         <h2 className="text-4xl font-extrabold mb-8 text-center text-gray-900">About Me</h2>
 
         <p className="text-lg text-gray-700 leading-relaxed">
-          I’m a <strong className="text-[#800000]">cum laude graduate</strong> from TIP Manila with a strong foundation in back-end development and a growing
+          I am a <strong className="text-[#800000]">cum laude graduate</strong> from TIP Manila with a strong foundation in back-end development and a growing
           passion for becoming a complete, capable <strong className="text-[#800000]">full-stack developer</strong>.
         </p>
 
@@ -119,13 +119,13 @@ export default function AboutPage() {
         </p>
 
         <p className="mt-6 text-lg text-gray-700 leading-relaxed">
-          On the frontend, I’m working primarily with <strong className="text-[#800000]">Vue.js</strong> and have a foundational understanding of <strong className="text-[#800000]">React.js</strong>.  
+          On the frontend, I am working primarily with <strong className="text-[#800000]">Vue.js</strong> and have a foundational understanding of <strong className="text-[#800000]">React.js</strong>.  
           On the backend and infrastructure side, I manage deployments and updates using <strong className="text-[#800000]">Nginx via PuTTY</strong>, 
           giving me hands-on DevOps experience.
         </p>
 
         <p className="mt-6 text-lg text-gray-700 leading-relaxed">
-          Though I’m still early in my frontend journey, I’m <strong className="text-[#800000]">committed to continuous learning</strong> and improvement. 
+          Though I am still early in my frontend journey, I am <strong className="text-[#800000]">committed to continuous learning</strong> and improvement. 
           I thrive in fast-paced environments, love solving real-world problems, and aim to grow into a <strong className="text-[#800000]">fully equipped, confident full-stack developer</strong> capable of building complete products from end to end.
         </p>
 
