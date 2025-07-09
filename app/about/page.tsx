@@ -2,7 +2,6 @@
 import { useEffect, useState } from 'react'
 import Image from 'next/image'
 import { FaGithub, FaLinkedin, FaEnvelope, FaDownload  } from 'react-icons/fa'
-import BackgroundSvg from '@/components/BackgroundSvg'
 
 
 export default function AboutPage() {
