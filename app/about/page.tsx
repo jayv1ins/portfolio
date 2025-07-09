@@ -194,8 +194,7 @@ export default function AboutPage() {
       {/* GitHub Activity (wider section, outside previous max-w) */}
       <section className="w-full max-w-[90rem] mx-auto py-20 px-6">
         <h2 className="text-4xl font-extrabold mb-6 text-center text-gray-900">GitHub Activity</h2>
-        <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-          Here's a look at my activity  both personal and work-related projects.
+        <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">Here look at my activity  both personal and work-related projects.
         </p>
 
         <div className="grid md:grid-cols-2 gap-10 w-full h-full">
